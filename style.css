@@ -45,8 +45,8 @@ img{
   background-color: #6630FF;
 
   width:100%;
-  border-top-right-radius: 25%;
-  border-bottom-right-radius: 25%;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
 .brd{
   color:#6630FF
