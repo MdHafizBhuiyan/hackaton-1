@@ -41,17 +41,19 @@ img{
 }
 .brd-text{
   color: rgb(61, 60, 60);
+  font-weight: 400;
 }
 .ftr{
   color:white;
   background-color: #6630FF;
-
+  font-weight: 400;
   width:100%;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
 }
 .brd{
-  color:#6630FF
+  color:#6630FF;
+  font-weight: 400;
 }
 #hero{
   display:flex;
